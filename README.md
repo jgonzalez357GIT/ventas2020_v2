@@ -1,2 +1,2 @@
-# ventas2020_v2
-mi primer pagina web 
+# ERP2020Ventas
+Equipo4_isc_8B
